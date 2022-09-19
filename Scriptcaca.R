@@ -1,2 +1,5 @@
 # Hola NAtalia
-# Yo es que no me pispo coño
+# A ver si conseguimos sincronizarnos
+
+
+
