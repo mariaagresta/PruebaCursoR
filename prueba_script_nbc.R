@@ -1,3 +1,6 @@
+# cambiando codigo
+
+
 # probando script
 setwd("E:\\procesado_CATENA\\1X1")
 if(!require("sf")){install.packages("sf")}
